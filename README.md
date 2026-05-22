@@ -40,7 +40,7 @@ The core analytics platform and machine learning forecasting system have been co
 ![Visualizations](visualizations.png)
 
 # Prediction System
-![Prediction](prediction-system.png)
+![Prediction](Prediction-system.png)
 
 # Model Comparison
 ![Comparison](model-comparison.png)
