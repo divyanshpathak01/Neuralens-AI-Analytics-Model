@@ -27,6 +27,26 @@ The core analytics platform and machine learning forecasting system have been co
 - Automated report summaries
 - Advanced predictive analytics
 - Real-time dashboard enhancements
+
+# Project Screenshots
+
+# Login Page
+![Login Page](login-page.png)
+
+# Dashboard Overview
+![Dashboard](dashboard-overview.png)
+
+#  Visualizations
+![Visualizations](visualizations.png)
+
+# Prediction System
+![Prediction](prediction-system.png)
+
+# Model Comparison
+![Comparison](model-comparison.png)
+
+#  Model Evaluation
+![Evaluation](training-evaluation.png)
   
 # Author
 Divyansh Pathak
