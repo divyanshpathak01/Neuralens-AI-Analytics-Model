@@ -19,5 +19,14 @@ NeuraLens is an AI-powered business analytics platform designed to analyze datas
 # Objective
 To help businesses make data-driven decisions through predictive analytics and interactive reporting.
 
+# Current Status
+The core analytics platform and machine learning forecasting system have been completed. AI-generated insight automation is currently under development.
+
+# Upcoming Features
+- AI-generated business insights
+- Automated report summaries
+- Advanced predictive analytics
+- Real-time dashboard enhancements
+  
 # Author
 Divyansh Pathak
